@@ -8,4 +8,6 @@ https://www.kaggle.com/c/freesound-audio-tagging
 # Modules
 
 pandas<br>
-numpy
+numpy<br>
+matplotlib<br>
+librosa<br>
